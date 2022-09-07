@@ -7,17 +7,14 @@ NetKVM:
 Spice:
     - '[Ss][Pp][Ii][Cc][Ee]'
 vioscsi:
-    - 'vioscsi'
+    - '[Vv][Ii]([Rr][Tt][Ii])?[Oo](\s|-)*[Ss][Cc][Ss][Ii]'
 viosock:
-    - 'viosock'
+    - '[Vv][Ii]([Rr][Tt][Ii])?[Oo](\s|-)*[Ss][Oo][Cc][Kk]'
 viostor:
-    - 'viostor'
+    - '[Vv][Ii]([Rr][Tt][Ii])?[Oo](\s|-)*[Ss][Tt][Oo][Rr]'
 virtio-fs:
-    - 'virtio-fs'
+    - '[Vv][Ii]([Rr][Tt][Ii])?[Oo](\s|-)*[Ff][Ss]'
 virtio-gpu:
-    - 'virtio-gpu'
+    - '[Vv][Ii]([Rr][Tt][Ii])?[Oo](\s|-)*[Gg][Pp][Uu]'
 virtio-input:
-    - 'virtio-input'
-virtio-mem:
-    - 'virtio-mem'
-    
+    - '[Vv][Ii]([Rr][Tt][Ii])?[Oo](\s|-)*[Ii][Nn][Pp][Uu][Tt]'
