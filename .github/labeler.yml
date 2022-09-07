@@ -5,7 +5,7 @@ Balloon:
 NetKVM:
     - 'NetKVM'
 Spice:
-    - '(?i)(spice)'
+    - '[Ss][Pp][Ii][Cc][Ee]'
 vioscsi:
     - 'vioscsi'
 viosock:
