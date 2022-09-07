@@ -1,9 +1,9 @@
 ivshmem:
-    - 'ivshmem'
+    - '[Ii][Vv][Ss][Hh][Mm][Ee][Mm]'
 Balloon:
-    - 'Balloon'
+    - '[Bb][Aa][Ll][Ll][Oo][Oo][Nn]'
 NetKVM:
-    - 'NetKVM'
+    - '[Nn][Ee][Tt](\s|-)*[Kk][Vv][Mm]'
 Spice:
     - '[Ss][Pp][Ii][Cc][Ee]'
 vioscsi:
